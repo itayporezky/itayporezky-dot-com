@@ -34,7 +34,7 @@ minifyOutput = true
 name = "s3bucket"
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://itayporezkyblog-bucket?region=eu-central-1"
+URL = "s3://itayporezky?region=eu-central-1"
 
 # Optionally, you can include or exclude specific files.
 # See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
